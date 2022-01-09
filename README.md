@@ -1,4 +1,4 @@
-# Basic OpenSwap smart contracts implementation
+# Thesis work: OpenSwap smart contracts implementation
 
 Basic contracts implementation of OpenSwap in order to handle both swap and liquidity provide features.
 
